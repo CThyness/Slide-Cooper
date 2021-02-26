@@ -1,0 +1,10 @@
+5cm (50mm) plattform for kamera
+
+Raspberry pi: 8.5cm*5.7cm*2.1cm  Utganger er på den ene kortsiden.
+	      (L,    B,    H) Minnekortet stikker litt ut på den andre kortsiden.
+				Skruehullene på raspebberyen er 2mm i diameter
+
+Arduino uno:  6.86cm*5.34cm*1.5cm   Skruehullene på arduinoen er 3mm i diameter
+	      (L,    B,     H)
+
+5mm hull i lokket for bryter

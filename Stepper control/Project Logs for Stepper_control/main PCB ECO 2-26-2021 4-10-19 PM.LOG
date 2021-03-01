@@ -1,0 +1,98 @@
+Added Component: Designator=Q1(TO220BV)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520/Vishay%20Siliconix/view-part/522447/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(TO220BV)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520/Vishay%20Siliconix/view-part/522447/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(TO220BV)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520/Vishay%20Siliconix/view-part/522447/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q4(TO220BV)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520/Vishay%20Siliconix/view-part/522447/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q5(TO220BV)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520/Vishay%20Siliconix/view-part/522447/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q6(TO220BV)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520/Vishay%20Siliconix/view-part/522447/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q7(TO220BV)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520/Vishay%20Siliconix/view-part/522447/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q8(TO220BV)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520/Vishay%20Siliconix/view-part/522447/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP1_2 Pin=Q1-D
+Added Pin To Net: NetName=NetP2_3 Pin=Q1-G
+Added Pin To Net: NetName=NetQ1_S Pin=Q1-S
+Added Pin To Net: NetName=NetP1_2 Pin=Q2-D
+Added Pin To Net: NetName=NetP2_4 Pin=Q2-G
+Added Pin To Net: NetName=NetQ2_S Pin=Q2-S
+Added Pin To Net: NetName=NetP1_2 Pin=Q3-D
+Added Pin To Net: NetName=NetP2_5 Pin=Q3-G
+Added Pin To Net: NetName=NetQ3_S Pin=Q3-S
+Added Pin To Net: NetName=NetP1_2 Pin=Q4-D
+Added Pin To Net: NetName=NetP2_6 Pin=Q4-G
+Added Pin To Net: NetName=NetQ3_S Pin=Q5-D
+Added Pin To Net: NetName=NetP2_6 Pin=Q5-G
+Added Pin To Net: NetName=GND Pin=Q5-S
+Added Pin To Net: NetName=NetQ1_S Pin=Q6-D
+Added Pin To Net: NetName=NetP2_4 Pin=Q6-G
+Added Pin To Net: NetName=GND Pin=Q6-S
+Added Pin To Net: NetName=NetQ2_S Pin=Q7-D
+Added Pin To Net: NetName=NetP2_3 Pin=Q7-G
+Added Pin To Net: NetName=GND Pin=Q7-S
+Added Pin To Net: NetName=NetP2_5 Pin=Q8-G
+Added Pin To Net: NetName=GND Pin=Q8-S
+Added Pin To Net: NetName=NetQ4_S Pin=Q4-S
+Added Pin To Net: NetName=NetQ4_S Pin=Q8-D
+Added Net: Name=NetQ4_S
+Added Member To Class: ClassName=main Member=Component P2 66200611122
+Added Member To Class: ClassName=main Member=Component Q1 IRF520
+Added Member To Class: ClassName=main Member=Component Q2 IRF520
+Added Member To Class: ClassName=main Member=Component Q3 IRF520
+Added Member To Class: ClassName=main Member=Component Q4 IRF520
+Added Member To Class: ClassName=main Member=Component Q5 IRF520
+Added Member To Class: ClassName=main Member=Component Q6 IRF520
+Added Member To Class: ClassName=main Member=Component Q7 IRF520
+Added Member To Class: ClassName=main Member=Component Q8 IRF520

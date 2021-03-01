@@ -1,0 +1,3 @@
+Change Component Description : Designator=C2 Old Description=C0603 22nF New Description=CAN1 termination capacitor
+Change Component Description : Designator=R4 Old Description=R0603 62R New Description=CAN1 bottom termination resistor
+Change Component Description : Designator=R2 Old Description=R0603 62R New Description=CAN1 top termination resistor

@@ -1,0 +1,9 @@
+Change Component Description : Designator=J1 Old Description=Female PCB Connector with Hex Screw WR-DSUB, Vertical, 15 pins New Description=BIg floppa connector
+Change Component Description : Designator=P1 Old Description=THT Male Header WR-MPC3, Vertical, Dual Row, pitch 3 mm, 4 pins New Description=CAN connector 1
+Change Component Description : Designator=P4 Old Description=THT Male Header WR-MPC3, Vertical, Dual Row, pitch 3 mm, 4 pins New Description=CAN connector 2
+Change Component Description : Designator=P5 Old Description=THT Male Header WR-MPC3, Vertical, Dual Row, pitch 3 mm, 4 pins New Description=CAN connector 3
+Change Component Description : Designator=P8 Old Description=THT Male Header WR-MPC3, Vertical, Dual Row, pitch 3 mm, 4 pins New Description=CAN connector 4
+Change Component Description : Designator=P3 Old Description=THT Male Header WR-MPC3, Vertical, Single Row, pitch 3 mm, 2 pins New Description=power connector 1
+Change Component Description : Designator=P2 Old Description=THT Male Header WR-MPC3, Vertical, Single Row, pitch 3 mm, 2 pins New Description=power connector 2
+Change Component Description : Designator=P6 Old Description=THT Male Header WR-MPC3, Vertical, Single Row, pitch 3 mm, 2 pins New Description=power connector 3
+Change Component Description : Designator=P7 Old Description=THT Male Header WR-MPC3, Vertical, Single Row, pitch 3 mm, 2 pins New Description=power connector 4

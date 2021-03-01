@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetJ1_7 Pin=J1-7
+Removed Pin From Net: NetName=NetJ1_14 Pin=J1-14
+Removed Pin From Net: NetName=NetJ1_14 Pin=R1-2
+Removed Pin From Net: NetName=NetJ1_4 Pin=R2-2
+Removed Pin From Net: NetName=NetJ1_7 Pin=R3-1
+Removed Pin From Net: NetName=NetJ1_11 Pin=R4-1
+Change Component Description : Designator=C1 Old Description=C0603 22nF New Description=CAN0 termination capacitor
+Change Component Description : Designator=R3 Old Description=R0603 62R New Description=CAN0 bottom termination resistor
+Change Component Description : Designator=R1 Old Description=R0603 62R New Description=CAN0 top termination resistor
+Added Pin To Net: NetName=NetJ1_14 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-14
+Added Pin To Net: NetName=NetJ1_7 Pin=R1-2
+Added Pin To Net: NetName=NetJ1_11 Pin=R2-2
+Added Pin To Net: NetName=NetJ1_14 Pin=R3-1
+Added Pin To Net: NetName=NetJ1_4 Pin=R4-1
+Change Net Name : Old Net Name=GND New Net Name=LV-
+Change Net Name : Old Net Name=NetJ1_4 New Net Name=CAN1_L
+Change Net Name : Old Net Name=NetJ1_7 New Net Name=CAN0_H
+Change Net Name : Old Net Name=NetJ1_11 New Net Name=CAN1_H
+Change Net Name : Old Net Name=NetJ1_14 New Net Name=CAN0_L
+Change Net Name : Old Net Name=VCC New Net Name=LV+

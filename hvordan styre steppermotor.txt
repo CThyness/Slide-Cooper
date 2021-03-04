@@ -1,0 +1,18 @@
+Step 1:
+black vcc
+green ground    Støm gjennom spole 1
+
+
+Step 2:
+blue vcc       Strøm gjennom spole 2
+red ground
+
+
+Step 3:
+green vcc	Negativ støm gjennom spole 1
+black ground
+
+
+Step 4:
+red vcc          Negativ strøm gjennom spole 2
+blue ground

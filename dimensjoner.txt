@@ -2,7 +2,7 @@ Raspberry pi: 8.5cm*5.6cm*1.6cm  Utganger er på den ene kortsiden.
 	      (L,    B,    H) Minnekortet stikker litt ut på den andre kortsiden.
 				Skruehullene på raspebberyen er 2.7mm i diameter
 
-Raspberry pi camera: 23.86mm*25mm*9mm   Selve PCBen er bare 1mm tykk
+Raspberry pi camera: 23.86mm*25mm*9cm   Selve PCBen er bare 1mm tykk
 		     (H,     B,    D)   3mm fra toppen av PCBen til første komponent
 
 Arduino uno:  6.86cm*5.34cm*1.5cm   Skruehullene på arduinoen er 3mm i diameter
@@ -11,6 +11,10 @@ Arduino uno:  6.86cm*5.34cm*1.5cm   Skruehullene på arduinoen er 3mm i diameter
 5mm hull i lokket for bryter
 
 
+Servo: 1.2cm * 2.2cm * 1.6cm  Kabelheader: 3mm*8mm
+       (B,      D,       H)
+	   (Som skal falle ned)
 
-Lage oppstikker som man kan feste kameraet til?
-		(7mm høy og 15mm dyp)
+
+Legg til 3cm ekstra plass bak arduinoen
+

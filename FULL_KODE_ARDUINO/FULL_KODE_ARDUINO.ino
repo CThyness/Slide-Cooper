@@ -8,23 +8,59 @@ void setup() {
   pinMode(dirPin,OUTPUT);
   
   Serial.begin(9600);
-  
 }
-
-
-
 
 void loop() {
-}
-    
-  digitalWrite(dirPin,HIGH); // Enables the motor to move in a particular direction
-  // Makes 400 pulses for making one full cycle rotation
-  for(int x = 0; x < 400; x++) {
-    digitalWrite(stepPin,HIGH); 
-    delayMicroseconds(1000); 
-    digitalWrite(stepPin,LOW);
-    delayMicroseconds(1000); 
-  }
+  int state = 0;
+  while(true){
+    // State-machine
+    switch(state){
+      
+      // Idle - wait for position and camera-angle
+      case (0):
+        //Read serial
+        break;
+        
+      // Positioning - move to position
+      case (1):
+        //convert length to number of steps and direction
+        bool dir = true;
+        int steps = 0;
+        step(steps, true, 1000);
+        break;
+        
+      // Camera
+      case (2):
+        break;
+        
+      // Calib
+      case (3):
+        break;
   
+      default:
+        state = NULL;
+        break;
+    }
+    if (state == NULL) break;
+  }
+}
+
+void step(int s, bool dir, int d){
+  // INPUT
+  //  s - number of pulses
+  //  dir - direction of pulses
+  //  d - delay / 2 between  pulses
+  if(dir){
+    digitalWrite(dirPin,HIGH);
+  }
+  else{
+    digitalWrite(dirPin,LOW);
+  }
+  for(int x = 0; x < s; x++) {
+    digitalWrite(stepPin,HIGH); 
+    delayMicroseconds(d); 
+    digitalWrite(stepPin,LOW);
+    delayMicroseconds(d); 
+  }
 }
   

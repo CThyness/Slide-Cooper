@@ -1,0 +1,17 @@
+float StringToFloat(String s){
+  float num1 = 0;
+  float num2 = 0;
+  int i = 0;
+  while(s[i] != '.'){
+    num1 = (num1*10)+(s[i]-48);
+    i++;
+  }
+  i = s.length()-1;
+  while(s[i] != '.'){
+    num2 = (num2/10) + (s[i]-48);
+    i--;
+  }
+  num2 = num2/10;
+  float num = num1 + num2;
+  return num;
+}

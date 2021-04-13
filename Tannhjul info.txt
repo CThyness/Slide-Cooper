@@ -1,0 +1,16 @@
+Uten hull i midten: 70 tagger
+
+
+Hvis vi går ut ifra følgelde:
+Motor: 20 tagger
+Tannhjul 1: 12 tagger, 70 tagger
+Tannhjul 2: 12 tagger, 70 tagger
+
+Resultater:
+Motor: 1.0 RPM, 180 grader vinkel
+Tannhjul 1: 0.29 RPM, 52.2 grader vinkel
+Tannhjul 2: 0.05 RPM, 9.0 grader vinkel
+
+
+
+https://geargenerator.com/#200,200,50,1,1,1,18416.09999998353,4,1,20,5,4,27,-90,0,0,0,0,0,0,70,17.5,4,27,-60,0,0,0,0,1,1,12,1,12,20,-60,0,0,0,0,2,0,70,5.833333333333333,12,20,0,1,0,0,0,0,0,3,-173
